@@ -6,7 +6,7 @@ This repository contains a professional HR Analytics Dashboard developed using *
 
 ##  Dashboard Overview
 
-<a href="https://github.com/Piyush-0506/HR-Analytics-DashBoards/blob/main/HR%20Analytics%20Dashboards.pdf">**Dash_boards**</a>
+<a href="https://github.com/Piyush-0506/HR-Analytics-DashBoards/blob/main/HR%20Analytics%20Dashboards.pdf">**DashBoards**</a>
 
 The dashboard is designed to track and analyze key human resource metrics across the organization. It includes:
 
