@@ -40,7 +40,7 @@ The dashboard is designed to track and analyze key human resource metrics across
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)** for calculated metrics
